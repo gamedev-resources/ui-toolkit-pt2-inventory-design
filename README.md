@@ -12,14 +12,14 @@ This tutorial is part of the **[Build Inventory & Equipment Systems with Unity U
 
 Check out the other parts:
 
-| Part | Topic |
-| ---- | ----- |
-| 1 | [Reusable Window System](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) |
-| **2** | **Design the Inventory UI** (You are here) |
-| 3 | [Create the Inventory Data Model](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model) |
-| 4 | [Inventory Interactions](https://github.com/gamedev-resources/ui-toolkit-pt4-inventory-interactions) |
-| 5 | [Render a 3D Character Preview](https://github.com/gamedev-resources/ui-toolkit-pt5-equip-char-preview) |
-| 6 | Equipping, Slot Validation & Mesh Swap |
+| Part | Topic | Repository |
+| ---- | ----- | ---------- |
+| 1 | Reusable Window System | [ui-toolkit-pt1-reusable-window-system](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) |
+| **2** | **Design the Inventory UI** | *You are here* |
+| 3 | Create the Inventory Data Model | [ui-toolkit-pt3-inventory-data-model](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model) |
+| 4 | Inventory Interactions | [ui-toolkit-pt4-inventory-interactions](https://github.com/gamedev-resources/ui-toolkit-pt4-inventory-interactions) |
+| 5 | Render a 3D Character Preview | [ui-toolkit-pt5-equip-char-preview](https://github.com/gamedev-resources/ui-toolkit-pt5-equip-char-preview) |
+| 6 | Equip Items with Slot Validation | [ui-toolkit-pt6-equipment-interactions](https://github.com/gamedev-resources/ui-toolkit-pt6-equipment-interactions) |
 
 ## What's Included
 
